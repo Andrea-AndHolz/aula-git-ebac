@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Andrea Buchholz
+-Profissão: Autonoma
+-Cidade: São Paulo
+-O que faz nas horas vagas: aproveito a convivencia com a familia 
+-Feedback sobre o curso Qualidade de Software: Satisfatorio
+-Feedback sobre a plataforma de estudo da EBAC: Muito bem estruturada
 
 Obrigado!!!
 
